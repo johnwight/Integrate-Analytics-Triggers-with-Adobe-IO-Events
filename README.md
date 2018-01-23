@@ -264,8 +264,7 @@ To watch your trigger work on Slack:
 
 Trigger messages are received as `POST` requests on this thread.
 
-## Authors
-- Hiren Shah [@hirenshah111](https://github.com/hirenshah111).
+## Author
 - John Wight [@johnwight](https://github.com/johnwight).
 
 
